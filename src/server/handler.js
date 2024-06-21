@@ -177,7 +177,6 @@ async function postPredictHandler(request, h) {
         return response;
       }
     } else {
-      // Add a new prediction
       const id = crypto.randomUUID();
       const createdAt = new Date().toISOString();
 
