@@ -1,0 +1,13 @@
+@google-cloud/firestore
+@hapi/cookie
+@hapi/hapi
+@hapi/jwt
+@tensorflow/tfjs-node
+bcrypt
+dotenv
+firebase-admin
+joi
+jsonwebtoken
+globals
+nodemon
+prettier
